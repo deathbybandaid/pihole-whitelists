@@ -1,0 +1,12 @@
+s.gateway.messenger.live.com 
+ui.skype.com 
+pricelist.skype.com 
+apps.skype.com 
+m.hotmail.com 
+s.gateway.messenger.live.com 
+sa.symcb.com 
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
