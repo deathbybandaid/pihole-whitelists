@@ -1,1 +1,3 @@
 www.msftncsi.com
+msftncsi.com
+dns.msftncsi.com
