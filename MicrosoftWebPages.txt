@@ -1,0 +1,5 @@
+outlook.office365.com 
+products.office.com 
+c.s-microsoft.com 
+i.s-microsoft.com 
+login.live.com
