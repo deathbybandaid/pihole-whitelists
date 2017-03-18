@@ -12,3 +12,4 @@ external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net 
 fbcdn-creative-a.akamaihd.net 
 scontent-lhr3-1.xx.fbcdn.net
+graph.facebook.com
